@@ -106,7 +106,7 @@ const Problem = () => {
               <p className="text-gray-300 italic">
                 "I usually just skip products I'm unsure about..."
               </p>
-              <p className="text-gray-500 text-sm mt-1">— User Interview</p>
+              <p className="text-gray-500 text-sm mt-1">User Interview</p>
             </motion.div>
           </motion.div>
         </div>

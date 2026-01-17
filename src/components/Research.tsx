@@ -1,9 +1,9 @@
 import { motion } from 'framer-motion';
 import { MessageCircle, Mic, BarChart3, Users } from 'lucide-react';
 
-import whatsapp1 from '../assets/research/whatsapp_1.jpeg';
-import whatsapp2 from '../assets/research/whatsapp_2.jpeg';
-import whatsapp3 from '../assets/research/whatsapp_3.jpeg';
+import whatsapp1 from '../assets/research/whatsapp_1.jpg';
+import whatsapp2 from '../assets/research/whatsapp_2.jpg';
+import whatsapp3 from '../assets/research/whatsapp_3.jpg';
 import interview1 from '../assets/research/interview_1.ogg';
 
 const stats = [

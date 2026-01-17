@@ -69,7 +69,7 @@ const Journey = () => {
             <div>
               <h3 className="text-xl font-bold mb-4">The Community Connection</h3>
               <p className="text-gray-300 mb-4">
-                A <span className="text-white font-semibold">Jain community in the US</span> has been working on a similar idea for months—going door-to-door, conducting surveys, trying to understand what people need.
+                A <span className="text-white font-semibold">Jain community in the US</span> has been working on a similar idea for months, going door-to-door, conducting surveys, trying to understand what people need.
               </p>
               <p className="text-gray-300 mb-4">
                 They haven't cracked it yet. We pulled it off in <span className="text-green-400 font-semibold">15 days</span>.

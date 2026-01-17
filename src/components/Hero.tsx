@@ -66,7 +66,7 @@ const Hero = () => {
           transition={{ delay: 0.9, duration: 0.8 }}
           className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-12"
         >
-          The AI-first app that helps you verify if packaged food aligns with your dietary restrictions — allergies, religious, or ethical.
+          The AI-first app that helps you verify if packaged food aligns with your dietary restrictions, whether allergies, religious, or ethical.
         </motion.p>
 
         {/* Community Tags */}

@@ -172,7 +172,7 @@ const Download = () => {
           transition={{ delay: 0.6 }}
           className="text-gray-600 text-sm"
         >
-          © 2026 Food Analyzer · Built with ❤️ for 100xEngineers Capstone
+          © 2026 Food Analyzer · Built with ❤️ for dietary freedom
         </motion.p>
       </motion.div>
     </section>

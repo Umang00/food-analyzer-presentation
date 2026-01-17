@@ -6,7 +6,7 @@ const MyStory = () => {
   const bulletPoints = [
     "I'm vegetarian. I don't consume eggs.",
     'Relatives fly in from UK/Canada with chocolates.',
-    '"Suitable for Vegetarians" — but it has eggs.',
+    '"Suitable for Vegetarians", but it has eggs.',
     'In the UK, eggs = vegetarian. Not for me.',
     'I want users to define what "vegetarian" means to them.',
   ];
@@ -36,7 +36,7 @@ const MyStory = () => {
                 "Is this actually safe for me to eat?"
               </p>
               <p className="text-gray-400 mt-2 pl-10">
-                — A question I've asked more times than I can count.
+                A question I've asked more times than I can count.
               </p>
             </div>
 
