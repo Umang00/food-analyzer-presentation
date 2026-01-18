@@ -73,7 +73,7 @@ const Download = () => {
           >
             <div className="mb-4 relative">
               <img
-                src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://github.com/Umang00/Food-fe/releases/download/v1.0.0/Food.Analyser.apk&color=22C55E&bgcolor=0A0A0F"
+                src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://drive.google.com/file/d/1lkrEAiuQpMTl0jsGO945e7n5yV4eR77Z/view?usp=sharing&color=22C55E&bgcolor=0A0A0F"
                 alt="Android APK QR Code"
                 className="w-44 h-44 mx-auto rounded-xl"
               />
@@ -83,7 +83,7 @@ const Download = () => {
               <span className="font-bold">Android APK</span>
             </div>
             <a
-              href="https://github.com/Umang00/Food-fe/releases/download/v1.0.0/Food.Analyser.apk"
+              href="https://drive.google.com/file/d/1lkrEAiuQpMTl0jsGO945e7n5yV4eR77Z/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 mt-4 px-5 py-2 bg-green-500 text-black rounded-full font-bold text-sm hover:bg-green-400 transition-colors"
